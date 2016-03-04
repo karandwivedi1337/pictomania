@@ -1,0 +1,5 @@
+{
+    "port" : 8000,
+    "staticUrlPrefix" : "/static/",
+    "staticDir" : "./web/static/"
+}
